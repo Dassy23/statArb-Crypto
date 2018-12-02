@@ -1,4 +1,9 @@
-"# statArb-Crypto" 
+##statArb-Crypto
+
+#Definition
+```
+The basic statistical arbitrage is a trading strategy that assumes that the price-series of two assets put into a pair (stocks or, in our case, cryptocurrencies) are non-stationary and mean reverting over time. In other words, when one coin in a pair outperforms the other, the poorer performing coin is bought long with the expectation that it will climb towards its outperforming partner, the other is sold short.
+```
 
 #Steps
 ```
